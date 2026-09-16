@@ -23,7 +23,7 @@ func ConnectDatabase() {
 		log.Fatal("Failed to connect to database: ", err)
 	}
 
-	// Auto-create/update the students table based on the Student struct
+	// Auto-create/update the students table based on the Student struct.
 	err = db.AutoMigrate(&models.Student{})
 	if err != nil {
 		log.Fatal("Failed to migrate database: ", err)
