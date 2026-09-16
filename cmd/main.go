@@ -12,7 +12,7 @@ func main() {
 	// 1. Connect to MySQL and auto-migrate tables
 	config.ConnectDatabase()
 
-	// 2. Create the Gin router
+	// 2. Create the Gin router.
 	router := gin.Default()
 
 	// 3. Allow the React frontend (localhost:3000) to call this API
