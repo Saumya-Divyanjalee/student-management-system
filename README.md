@@ -92,6 +92,17 @@ student-management-system/
 ```
 
 ---
+<img width="1917" height="915" alt="Screenshot 2026-09-17 105723" src="https://github.com/user-attachments/assets/15742308-af19-4cdb-88d8-6557ee90b2a6" />
+<img width="1885" height="915" alt="Screenshot 2026-09-17 105820" src="https://github.com/user-attachments/assets/1dd9c3fb-848c-4ec4-925f-c15a9d65f12b" />
+<img width="1892" height="907" alt="Screenshot 2026-09-17 105835" src="https://github.com/user-attachments/assets/05ad8627-9fd8-47e1-9976-87f55c65a576" />
+<img width="1888" height="910" alt="Screenshot 2026-09-17 105900" src="https://github.com/user-attachments/assets/b4cff646-3fc9-4903-8de0-ddc6b267a698" />
+<img width="1903" height="910" alt="Screenshot 2026-09-17 105926" src="https://github.com/user-attachments/assets/d1e3ac7a-379e-4cf4-9a20-c7e6ec60e563" />
+<img width="1910" height="915" alt="Screenshot 2026-09-17 105941" src="https://github.com/user-attachments/assets/98853553-6c11-4700-aefb-46d80ed0e4e7" />
+
+
+
+
+
 
 ## 🚀 Getting Started
 
